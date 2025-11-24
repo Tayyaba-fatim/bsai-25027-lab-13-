@@ -1,0 +1,146 @@
+.header-styling{
+    background-color: #fd983a; 
+    color: rgb(208, 17, 17);            
+    padding: 10px 20px;    
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+    
+}
+.button-decor{
+    background-image: linear-gradient(to right, rgb(241, 184, 216), rgb(241, 26, 119));
+      
+    padding: 10px 20px;    
+  
+    text-align: center;
+    font-size: 18px;
+     box-shadow: 0 10px 20px rgba(36, 25, 22, 0.4); 
+    align-items: center;
+    border-radius:30%;
+    border-color: #fc0962;
+   display: inline-block;
+  justify-content: space-between;
+  text-decoration:none;
+
+}
+.Main-bgr{
+    background-image: url('bsai-25027-img4.jpg');
+    background-size: cover; 
+    background-position: center; 
+               
+    padding: 100px;
+    height: 400px;  
+    position: relative;
+}
+.logo{
+     background-image: url('bsai-25027-img5.jpg');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: left top; 
+    width: 150px;      
+    height: 150px;      
+    position: absolute;
+    top: 85px;          
+    left: 20px;
+
+}
+.Cloth-images{
+    background-image: url('bsai-25027-img6.jpg');
+ background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: left top; 
+    width:90%;      
+    height: 80%;      
+    position: absolute;
+    top: 85px;          
+    left: 70%;
+}
+.Cloth-images2{
+    background-image: url('bsai-25027-img7.jpg');
+ background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: left top; 
+    width:30%;      
+    height: 80%;        
+    position: absolute;
+    top: 85px;          
+    left: 37%;
+}
+
+.Cloth-images3{
+    background-image: url('bsai-25027-img2.jpg');
+ background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: left top; 
+    width:100%;      
+    height: 80%;        
+    position: absolute;
+    top: 85px;          
+    left: 10%;
+}
+.Cloth-images4{
+    background-image: url('bsai-25027-img3.jpg');
+ background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: left top; 
+    width:100%;      
+    height: 70%;        
+    position: absolute;
+    top: 105%;          
+    left: 10%;
+}
+.Cloth-images5{
+    background-image: url('bsai-25027-img1.jpg');
+ background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: left top; 
+    width:70%;      
+    height: 70%;        
+    position: absolute;
+    top: 105%;          
+    left: 63%;
+}
+.text-styling{
+    text-align: center;
+    position: absolute;
+       top: 132%;          
+    left: 32%;
+  color: rgb(141, 19, 19);
+}
+.button-decor2{
+    background-image: linear-gradient(to right, rgb(241, 184, 216), rgb(141, 19, 19));
+    color: rgb(255, 255, 255);            
+    padding: 10px 20px;    
+   
+    text-align: center;
+    font-size: 18px;
+     box-shadow: 0 10px 20px rgba(36, 25, 22, 0.4); 
+    align-items: center;
+    border-radius:30%;
+    border-color: #fc0962;
+  position: absolute;
+       top: 147%;          
+    left: 41%;
+
+}
+.main-body{ 
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f8f1f1;        
+    padding: 10px;
+    border-radius: 30px;                
+    box-shadow: 0 10px 10px rgba(0,0,0,0.3);
+    margin: 20px 10px;
+    
+}
+.text-body{
+text-align: center;
+font-size: medium;
+font-style: initial;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.image-body{
+      box-shadow: 0px 10px 20px rgba(36, 25, 22, 0.4); 
+ border-radius: 30px;   
+}
